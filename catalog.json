@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "sourceLabel": "PhorzPhlo Bundle Examples",
+  "bundles": [
+    {
+      "label": "Detectron2",
+      "license": {
+        "expression": "MIT",
+        "url": "https://github.com/phocaz/PhorzPhloBundles_Detectron2/blob/main/LICENSE",
+        "text": ""
+      },
+      "versions": [
+        {
+          "version": "1.1.0",
+          "setups": [
+            {
+              "setupVersion": "cuda12.6-wp3.13.7",
+              "zipUrl": "https://huggingface.co/buckets/Phocaz/PhorzPhloExampleBundles/resolve/Detectron2-1.1.0-CUDA%20(12.6),%20WinPython%20(3.13.7).zip?download=true",
+              "sha256": "",
+              "sourceCodeUrl": "https://github.com/phocaz/PhorzPhloBundles_Detectron2",
+              "thirdPartyNoticesUrl": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "YOLO 11",
+      "license": {
+        "expression": "AGPL-3.0",
+        "url": "https://github.com/phocaz/PhorzPhloBundles_Yolo11/blob/main/LICENSE",
+        "text": ""
+      },
+      "versions": [
+        {
+          "version": "1.1.0",
+          "setups": [
+            {
+              "setupVersion": "cuda12.6-wp3.13.7",
+              "zipUrl": "https://huggingface.co/buckets/Phocaz/PhorzPhloExampleBundles/resolve/YOLO11-1.1.0-CUDA%20(12.6),%20WinPython%20(3.13.7).zip?download=true",
+              "sha256": "",
+              "sourceCodeUrl": "https://github.com/phocaz/PhorzPhloBundles_Yolo11",
+              "thirdPartyNoticesUrl": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
