@@ -55,6 +55,18 @@
               "thirdPartyNoticesUrl": ""
             }
           ]
+        },
+        {
+          "version": "1.2.2",
+          "setups": [
+            {
+              "setupVersion": "cuda12.6-wp3.13.7",
+              "zipUrl": "https://huggingface.co/buckets/Phocaz/PhorzPhloExampleBundles/resolve/YOLO11-1.2.2-CUDA%20(12.6),%20WinPython%20(3.13.7).zip?download=true",
+              "sha256": "",
+              "sourceCodeUrl": "https://github.com/phocaz/PhorzPhloBundles_Yolo11",
+              "thirdPartyNoticesUrl": ""
+            }
+          ]
         }
       ]
     },
